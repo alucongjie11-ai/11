@@ -1,1 +1,1 @@
-# 11
+https://subz1.gsysublink.com/api/v1/client/subscribe?token=69b148c447be0b3da484df5ddb743964&flag=v2ray
